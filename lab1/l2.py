@@ -1,0 +1,6 @@
+a = input ("Enter Your Name : ")
+b = int(input("Enter Your Roll NO : "))
+c = input("Enter Your Branch Name : ")
+print("The Student Name is : ",a)
+print("& Roll Number is : ",b)
+print("& the branch name is : ",c)
